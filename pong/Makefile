@@ -1,7 +1,7 @@
 NAME		  =		  pong
 
 FLAG          =       -W -Wall -Werror
-HOME          =       /home/rena
+
 INCLUDE       =       -I${HOME}/.froot/include/
 SRC           =       pong.c \
 			display_pong.c
